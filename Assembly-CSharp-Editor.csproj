@@ -1411,6 +1411,10 @@
       <Project>{FD4C7E1E-87A6-27C9-0AC5-08D83A3DB0E9}</Project>
       <Name>Google.Play.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="spine-csharp.csproj">
+      <Project>{7D2A08EF-708A-CC3E-7FDD-AF290D2FB55A}</Project>
+      <Name>spine-csharp</Name>
+    </ProjectReference>
     <ProjectReference Include="ACTk.Editor.csproj">
       <Project>{8ADEA186-061A-496F-BC20-825D057F841B}</Project>
       <Name>ACTk.Editor</Name>

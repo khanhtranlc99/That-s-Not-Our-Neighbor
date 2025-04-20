@@ -17,19 +17,9 @@ public class LoseBox : BaseBox
         return _instance;
     }
     public Text tvScore;
-    public Button btnClose;
-    public Button btnAdsRevive;
-    public Button btnReviveByCoin;
-
-    public CoinHeartBar coinHeartBar;
 
     public void Init()
     {
-        btnClose.onClick.AddListener(delegate { HandleClose(); });
-        btnAdsRevive.onClick.AddListener(delegate { HandleAdsRevive(); });
-        btnReviveByCoin.onClick.AddListener(delegate { HandleReviveByCoin(); });
-        coinHeartBar.Init();
-   
        
     }   
     public void InitState()
@@ -42,55 +32,20 @@ public class LoseBox : BaseBox
         if (UseProfile.Coin >= 100)
         {
             UseProfile.Coin -= 100;
-            GamePlayController.Instance.stateGame = StateGame.Playing;
-    
-         
- 
-            Close();
-        
+            GamePlayController.Instance.stateGame = StateGame.Playing;     
+            Close();       
         }
         else
         {
             ShopBox.Setup(ButtonShopType.Gold).Show();
-     
         }
-
-
     }
-    public void HandleAdsRevive()
-    {
-        GameController.Instance.musicManager.PlayClickSound();
-        GameController.Instance.admobAds.ShowVideoReward(
-                    actionReward: () =>
-                    {
-                       
-                            Close();
-                  
-                  
-                    },
-                    actionNotLoadedVideo: () =>
-                    {
-                        GameController.Instance.moneyEffectController.SpawnEffectText_FlyUp_UI
-                         (btnAdsRevive.transform
-                            ,
-                         btnAdsRevive.transform.position,
-                         "No video at the moment!",
-                         Color.white,
-                         isSpawnItemPlayer: true
-                         );
-                    },
-                    actionClose: null,
-                    ActionWatchVideo.ReviveFreeLoseBox,
-                    UseProfile.CurrentLevel.ToString());
-
-
-
-    }
+   
     public void HandleClose()
     {
         GameController.Instance.musicManager.PlayClickSound();
         //Close();
-        BackHomeBox.Setup(TypeBackHOme.BackHome).Show();
+ 
 
     }
 

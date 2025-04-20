@@ -5,6 +5,7 @@ using Sirenix.OdinInspector;
 using UnityEditor;
 using System;
 using DG.Tweening;
+using UnityEngine.UI;
 public enum Difficult
 {
     Normal,
@@ -16,11 +17,47 @@ public enum Difficult
 
 public class LevelData : SerializedMonoBehaviour
 {
- 
-    public void Init()
+    public DataCharector dataCharector;
+    public bool isImporter;
+    public Transform postCharector;
+    public List<DataCharector> lsDataCharector;
+    public PlayerContain playerContain;
+
+
+    public void Init(PlayerContain paramPlayerContain)
     {
-    
-      
-   
+
+        playerContain = paramPlayerContain;
+
     }
- }
+
+    public IEnumerator HandleCharectorMove(bool moveIn, Action action)
+    {
+        if (moveIn)
+        {
+            yield return postCharector.transform.DOMove(playerContain.postMid.position, 1).WaitForCompletion();
+        }
+        else
+        {
+            yield return postCharector.transform.DOMove(playerContain.postLeft.position, 1).WaitForCompletion();
+        }
+        action?.Invoke();
+    }
+
+
+
+    
+
+}
+[System.Serializable]
+public class DataCharector
+{
+    public Sprite avatar;
+    public string name;
+    public string lastName;
+    public string apartment;
+    public string reason;
+    public string id;
+    public string monthDay;
+    
+}

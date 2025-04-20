@@ -99,18 +99,18 @@ public class PathPrefabs
     public const string RATE_GAME_BOX = "UI/Popups/RateGameBox";
     public const string SETTING_BOX = "UI/Popups/SettingBox";
     public const string LOSE_BOX = "UI/Popups/LoseBox";
-    public const string LEVEL_FAILED_BOX = "UI/Popups/LevelFailedBox";
-    public const string EXIT_LEVEL_BOX = "UI/Popups/ExitLevelBox";
+    public const string CHECK_LIST_BOX = "UI/Popups/CheckListBox";
+    public const string TO_DAY_LIST_BOX = "UI/Popups/TodayListBox";
 
     public const string SETTINGS_BOX = "UI/Popups/SettingsBox";
-    public const string FAIL_CONNECTION_BOX = "UI/Popups/FailConnectionBox";
+    public const string CARD_INFO_BOX = "UI/Popups/CardInfoBox";
     public const string SELECT_LEVEL_BOX = "UI/Popups/SelectLevelPopups";
 
     public const string REWARD_CONGRATULATION_BOX = "UI/Popups/RewardCongratulationBox";
     public const string SHOP_GAME_BOX = "UI/Popups/ShopBox";
     public const string CONGRATULATION_BOX = "UI/Popups/CongratulationBox";
 
-    public const string STARTER_PACK_BOX = "UI/Popups/PackBoxes/StarterPackBox";
+    public const string FOLDER_BOX = "UI/Popups/FolderBox";
     public const string THREE_SKIN_BIRD_PACK_BOX = "UI/Popups/PackBoxes/ThreeSkinBirdPackBox";
     public const string BRANCH_AND_THEME_PACK_BOX = "UI/Popups/PackBoxes/BranchAndThemePackBox";
 

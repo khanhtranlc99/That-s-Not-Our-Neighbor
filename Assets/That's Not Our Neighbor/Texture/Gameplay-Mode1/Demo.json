@@ -1,0 +1,17 @@
+{ "skeleton": { "images": "I:/My Drive/CyanFlame/2025/Neighbor/Gameplay-Mode1/images/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 0, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Demo", "bone": "root", "attachment": "Demo" }
+],
+"skins": {
+	"default": {
+		"Demo": {
+			"Demo": { "x": 540, "y": -960, "width": 1080, "height": 1920 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

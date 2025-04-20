@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|d:\\projectuniy\\that\u0027s not our neighbor\\assets\\base\\00_basecode\\scripts\\ui\\loading\\losebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\ui\\loading\\losebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\utility\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\utility\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|d:\\projectuniy\\that\u0027s not our neighbor\\assets\\base\\00_basecode\\scripts\\ui\\loading\\winbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\ui\\loading\\winbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\com.unity.uiextensions\\runtime\\scripts\\bomscript\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\com.unity.uiextensions\\runtime\\scripts\\bomscript\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\ui\\checklistchoose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\ui\\checklistchoose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\ui\\checklistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\ui\\checklistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\ui\\gridcharector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\ui\\gridcharector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\playercontain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\playercontain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|d:\\projectuniy\\that\u0027s not our neighbor\\assets\\that\u0027s not our neighbor\\script\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\that\u0027s not our neighbor\\script\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\that\u0027s not our neighbor\\script\\boxchatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\that\u0027s not our neighbor\\script\\boxchatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\ui\\loading\\startloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\ui\\loading\\startloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\objingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\objingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\folderbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\folderbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\ui\\cardinfobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\ui\\cardinfobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\ui\\todaylistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\ui\\todaylistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\controllers\\homecontroller\\packinshopads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\homecontroller\\packinshopads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\00_basecode\\scripts\\ui\\heartbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\ui\\heartbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\that\u0027s not our neighbor\\script\\makemoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AC569A-E7E5-80B4-DDED-466B27BBE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\that\u0027s not our neighbor\\script\\makemoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B892387-FAA7-7054-CAAC-DC8BF93FC3F2}|Assembly-CSharp-Editor.csproj|D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\assets\\base\\3party\\joker2x\\editor\\configbuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B892387-FAA7-7054-CAAC-DC8BF93FC3F2}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\base\\3party\\joker2x\\editor\\configbuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GameController.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GameController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:07:06.203Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoseBox.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\LoseBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\LoseBox.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\LoseBox.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\LoseBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:47:26.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Winbox.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\Winbox.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\Winbox.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\Winbox.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\Winbox.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:33:34.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckListChoose.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\CheckListChoose.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\CheckListChoose.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\CheckListChoose.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\CheckListChoose.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:47:33.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ObjInGame.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\ObjInGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\ObjInGame.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\ObjInGame.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\ObjInGame.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAArwDQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:08:39.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerContain.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\PlayerContain.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\PlayerContain.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\PlayerContain.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\PlayerContain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:03:51.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoorController.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\That\u0027s Not Our Neighbor\\Script\\DoorController.cs",
+              "RelativeDocumentMoniker": "Assets\\That\u0027s Not Our Neighbor\\Script\\DoorController.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\That\u0027s Not Our Neighbor\\Script\\DoorController.cs",
+              "RelativeToolTip": "Assets\\That\u0027s Not Our Neighbor\\Script\\DoorController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAD4vyIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:33:02.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridCharector.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\GridCharector.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\GridCharector.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\GridCharector.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\GridCharector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:02:57.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckListBox.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\CheckListBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\CheckListBox.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\CheckListBox.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\CheckListBox.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:56:21.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringHelper.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Utility\\StringHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Utility\\StringHelper.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Utility\\StringHelper.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Utility\\StringHelper.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAMwGQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:54:55.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TodayListBox.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\TodayListBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\TodayListBox.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\TodayListBox.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\TodayListBox.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vyEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:53:59.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoxChatController.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\That\u0027s Not Our Neighbor\\Script\\BoxChatController.cs",
+              "RelativeDocumentMoniker": "Assets\\That\u0027s Not Our Neighbor\\Script\\BoxChatController.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\That\u0027s Not Our Neighbor\\Script\\BoxChatController.cs",
+              "RelativeToolTip": "Assets\\That\u0027s Not Our Neighbor\\Script\\BoxChatController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:01:00.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelData.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\com.unity.uiextensions\\Runtime\\Scripts\\BomScript\\LevelData.cs",
+              "RelativeDocumentMoniker": "Assets\\com.unity.uiextensions\\Runtime\\Scripts\\BomScript\\LevelData.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\com.unity.uiextensions\\Runtime\\Scripts\\BomScript\\LevelData.cs",
+              "RelativeToolTip": "Assets\\com.unity.uiextensions\\Runtime\\Scripts\\BomScript\\LevelData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:39:56.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GameScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GameScene.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GameScene.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GameScene.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:01:37.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PackInShopAds.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\HomeController\\PackInShopAds.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\HomeController\\PackInShopAds.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\HomeController\\PackInShopAds.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\HomeController\\PackInShopAds.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAIwI4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:52:28.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartLoading.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\StartLoading.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\StartLoading.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\StartLoading.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\StartLoading.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:31:00.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CardInfoBox.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\CardInfoBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\CardInfoBox.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\CardInfoBox.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\CardInfoBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T04:51:21.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FolderBox.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\FolderBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\FolderBox.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\FolderBox.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\FolderBox.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T06:43:25.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InputController.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\InputController.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\InputController.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\InputController.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\InputController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:12:27.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GamePlayController.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GamePlayController.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GamePlayController.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GamePlayController.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GamePlayController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAD4vy0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:01:09.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HeartBox.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\HeartBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\HeartBox.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\HeartBox.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\HeartBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:54:15.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MakeMoney.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\That\u0027s Not Our Neighbor\\Script\\MakeMoney.cs",
+              "RelativeDocumentMoniker": "Assets\\That\u0027s Not Our Neighbor\\Script\\MakeMoney.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\That\u0027s Not Our Neighbor\\Script\\MakeMoney.cs",
+              "RelativeToolTip": "Assets\\That\u0027s Not Our Neighbor\\Script\\MakeMoney.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:43:36.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConfigBuild.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\3Party\\Joker2X\\Editor\\ConfigBuild.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\3Party\\Joker2X\\Editor\\ConfigBuild.cs",
+              "ToolTip": "D:\\ProjectUniy\\That\u0027s Not Our Neighbor\\Assets\\Base\\3Party\\Joker2X\\Editor\\ConfigBuild.cs",
+              "RelativeToolTip": "Assets\\Base\\3Party\\Joker2X\\Editor\\ConfigBuild.cs",
+              "ViewState": "AgIAANwBAAAAAAAAAAAewPABAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:27:01.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

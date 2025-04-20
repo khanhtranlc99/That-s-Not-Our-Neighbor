@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spine-unity", "spine-unity.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spine-unity-editor", "spine-unity-editor.csproj", "{79B378A5-6CF0-8575-7B72-BDE2CC703748}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spine-csharp", "spine-csharp.csproj", "{7D2A08EF-708A-CC3E-7FDD-AF290D2FB55A}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSdk.Scripts", "MaxSdk.Scripts.csproj", "{846BBE57-78FE-1330-4F20-787017423E2D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACTk.Examples.Genuine.Runtime", "ACTk.Examples.Genuine.Runtime.csproj", "{6679084A-E0C4-A940-41C6-74B2F467A79D}"
@@ -99,6 +101,10 @@ Global
 		{79B378A5-6CF0-8575-7B72-BDE2CC703748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79B378A5-6CF0-8575-7B72-BDE2CC703748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79B378A5-6CF0-8575-7B72-BDE2CC703748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D2A08EF-708A-CC3E-7FDD-AF290D2FB55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2A08EF-708A-CC3E-7FDD-AF290D2FB55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2A08EF-708A-CC3E-7FDD-AF290D2FB55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2A08EF-708A-CC3E-7FDD-AF290D2FB55A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{846BBE57-78FE-1330-4F20-787017423E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{846BBE57-78FE-1330-4F20-787017423E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{846BBE57-78FE-1330-4F20-787017423E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
