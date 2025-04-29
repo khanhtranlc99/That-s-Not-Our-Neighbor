@@ -277,8 +277,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -320, y: -546}
-  m_SizeDelta: {x: 189.8325, y: 147.9822}
+  m_AnchoredPosition: {x: -213.29, y: -546}
+  m_SizeDelta: {x: 343.88, y: 147.9822}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7382796915349574217
 CanvasRenderer:
@@ -321,7 +321,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '*Id'
+  m_Text: '*Id & Name'
 --- !u!114 &1795975030223165559
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -334,6 +334,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cc283b458904e94aaec1467048b2ee7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  keyType: 0
   checkListBox: {fileID: 4629396990456574369}
   btnRight: {fileID: 5318771236844372866}
   btnWrong: {fileID: 1271608108294115216}
@@ -434,6 +435,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cc283b458904e94aaec1467048b2ee7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  keyType: 3
   checkListBox: {fileID: 4629396990456574369}
   btnRight: {fileID: 270944006720310565}
   btnWrong: {fileID: 4092368421862551715}
@@ -1468,6 +1470,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cc283b458904e94aaec1467048b2ee7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  keyType: 2
   checkListBox: {fileID: 4629396990456574369}
   btnRight: {fileID: 1926203011350403711}
   btnWrong: {fileID: 5458579843265224448}
@@ -2846,7 +2849,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 539.5779, y: 0}
+  m_AnchoredPosition: {x: 355.84412, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2128549212557549015
@@ -3145,6 +3148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cc283b458904e94aaec1467048b2ee7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  keyType: 1
   checkListBox: {fileID: 4629396990456574369}
   btnRight: {fileID: 6199227010576385756}
   btnWrong: {fileID: 6921557681645689317}
@@ -3187,7 +3191,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 386.57788, y: 0}
+  m_AnchoredPosition: {x: 202.84412, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4933072251356887250

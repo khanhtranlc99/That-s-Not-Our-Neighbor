@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using UnityEngine;
 using DG.Tweening;
 using System;
-using Sirenix.OdinInspector.Editor.Drawers;
+ 
 public class DoorController : MonoBehaviour
 {
     public Transform postUp;
@@ -116,6 +116,8 @@ public class DoorController : MonoBehaviour
         playerContain.levelData.postCharector.gameObject.SetActive(false);
         playerContain.staffController.SetPostMid();
         StartCoroutine(HandleMoveDoor(true, delegate {
+            warningVfx.DOKill();
+            warningVfx.color = new Color32(0,0,0,0);
             playerContain.boxChatController.ShowTextTypewriter(playerContain.staffController.arrest, 0.03f, delegate
             {
                StartCoroutine(HandleMoveStaffEndGame()) ;
@@ -130,13 +132,31 @@ public class DoorController : MonoBehaviour
         yield return StartCoroutine(playerContain.staffController.HandleStaffMove(false, delegate {  }));
         yield return new WaitForSeconds(1);
 
-        Winbox.Setup().Show();
+        GameController.Instance.admobAds.HandleShowMerec();
+        if (playerContain.levelData.isImporter)
+        {
+            Winbox.Setup().Show();
+        }
+        else
+        {
+            LoseBox.Setup(false).Show();
+        }
     }
 
     private IEnumerator EndGameCharector()
     {
         yield return new WaitForSeconds(1);
-        Winbox.Setup().Show();
+        GameController.Instance.admobAds.HandleShowMerec();
+        if (!playerContain.levelData.isImporter)
+        {
+            Winbox.Setup().Show();
+        }
+        else
+        {
+            LoseBox.Setup(true).Show();
+        }
+        
+      
 
     }
 }

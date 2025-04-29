@@ -33,10 +33,11 @@ public class GameScene : BaseScene
 
     }
 
-    public void Init(LevelData levelData)
+    public void Init( )
     {
-    
-     
+
+        settinBtn.onClick.AddListener(delegate { SettingBox.Setup(false).Show(); });
+        tvLevel.text = "Level " + UseProfile.CurrentLevel;
     }
 
     public override void OnEscapeWhenStackBoxEmpty()

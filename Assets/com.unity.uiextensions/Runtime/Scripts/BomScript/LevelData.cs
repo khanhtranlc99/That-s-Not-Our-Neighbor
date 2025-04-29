@@ -14,6 +14,14 @@ public enum Difficult
     Boss
 
 }
+public enum KeyType
+{
+  Id_Name,
+  Appearance,
+  EntryRequest,
+  OnListToDay,
+
+}
 
 public class LevelData : SerializedMonoBehaviour
 {
@@ -22,6 +30,7 @@ public class LevelData : SerializedMonoBehaviour
     public Transform postCharector;
     public List<DataCharector> lsDataCharector;
     public PlayerContain playerContain;
+    public List<KeyAnswer> lsKeyAnswers;
 
 
     public void Init(PlayerContain paramPlayerContain)
@@ -46,9 +55,18 @@ public class LevelData : SerializedMonoBehaviour
 
 
 
-    
+
 
 }
+[System.Serializable]
+public class KeyAnswer
+{
+    public KeyType keyType;
+    public bool correct;
+}
+
+
+
 [System.Serializable]
 public class DataCharector
 {

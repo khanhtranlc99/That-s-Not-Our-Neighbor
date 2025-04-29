@@ -40,9 +40,9 @@ public class Winbox : BaseBox
     {
         GameController.Instance.musicManager.PlayClickSound();
         UseProfile.CurrentLevel += 1;
-        if (UseProfile.CurrentLevel >= 84)
+        if (UseProfile.CurrentLevel >= 6)
         {
-            UseProfile.CurrentLevel = 84;
+            UseProfile.CurrentLevel = 6;
         }
 
 

@@ -37,9 +37,10 @@ public class GamePlayController : Singleton<GamePlayController>
 
    
         playerContain.Init();
+        gameScene.Init();
         stateGame = StateGame.Playing;
 
-
+        GameController.Instance.admobAds. HandleHideMerec();
 
 
     }

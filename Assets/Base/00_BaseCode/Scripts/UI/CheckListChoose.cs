@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class CheckListChoose : MonoBehaviour
 {
+    public KeyType keyType;
     public CheckListBox checkListBox;
     public Button btnRight;
     public Button btnWrong;
@@ -23,7 +24,6 @@ public class CheckListChoose : MonoBehaviour
         {
             xObj.SetActive(false);
             vObj.SetActive(true);
-        
         }
         else
         {
@@ -33,14 +33,10 @@ public class CheckListChoose : MonoBehaviour
         if(checkListBox.AllCheckOk)
         {
             GamePlayController.Instance.playerContain.completeChoose = true;
-            //checkListBox.Close();
             GamePlayController.Instance.playerContain.doorController.objClose.HandleScaleLoop();
             GamePlayController.Instance.playerContain.doorController.objOpen.HandleScaleLoop();
         }
-        else
-        {
-         
-        }
+        HandleCheck(true);
     }
     public void HandleBtnLeft()
     {
@@ -57,14 +53,15 @@ public class CheckListChoose : MonoBehaviour
         if (checkListBox.AllCheckOk)
         {
             GamePlayController.Instance.playerContain.completeChoose = true;
-          //  checkListBox.Close();
             GamePlayController.Instance.playerContain.doorController.objClose.HandleScaleLoop();
             GamePlayController.Instance.playerContain.doorController.objOpen.HandleScaleLoop();
         }
-        else
-        {
-          
-        }
+        HandleCheck(false);
     }
+    public void HandleCheck(bool isTrue)
+    {
+
+        GamePlayController.Instance.playerContain.answerController.GetKeyAnswer(keyType).correct = isTrue;
+    }    
 
 }

@@ -53,7 +53,7 @@ public class BackHomeBox : BaseBox
                 Close();
                 if(GamePlayController.Instance.stateGame == StateGame.Lose)
                 {
-                    LoseBox.Setup().Show();
+                    //LoseBox.Setup().Show();
                 }    
    
                 break;

@@ -30,10 +30,12 @@ public class FolderBox : BaseBox
     private void Init(List<DataCharector> dataCharectors)
     {
         btnClose.onClick.AddListener(delegate { Close();   });
-       for(int i = 0; i < lsgGridCharectors.Count; i ++)
+       for(int i = 0; i < dataCharectors.Count; i ++)
         {
+            lsgGridCharectors[i].gameObject.SetActive(true);
             lsgGridCharectors[i].InitState(dataCharectors[i]);
         }
+       
     }
     private void InitState()
     {

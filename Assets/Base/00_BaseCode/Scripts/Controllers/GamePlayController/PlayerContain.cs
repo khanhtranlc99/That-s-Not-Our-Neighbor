@@ -9,6 +9,7 @@ public class PlayerContain : MonoBehaviour
     public DoorController doorController;
     public StaffController staffController;
     public BoxChatController boxChatController;
+    public AnswerController answerController;
     public Transform postLeft;
     public Transform postMid;
     public ObjInGame cardObj;
@@ -18,6 +19,8 @@ public class PlayerContain : MonoBehaviour
 
     public void Init()
     {
+        string pathLevel = StringHelper.PATH_CONFIG_LEVEL_TEST;
+        levelData = Instantiate(Resources.Load<LevelData>(string.Format(pathLevel, UseProfile.CurrentLevel)));
         completeChoose = false;
         levelData.Init(this);
         doorController.Init();
